@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-clean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "credentials.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beboopr/mongodb-import.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beboopr/mongodb-import/issues"
+  },
+  "homepage": "https://github.com/beboopr/mongodb-import#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
+}
